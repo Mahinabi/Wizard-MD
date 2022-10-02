@@ -44,7 +44,7 @@ apt install nodejs -y
 apt install ffmpeg -y
 apt install wget
 apt install imagemagick -y
-git clone https://github.com/Ajmal-Achu/Wizard-MD
+git clone https://github.com/Mahinabi/Wizard-MD
 cd Wizard-MD
 rm -r session.json
 node.
